@@ -1,2 +1,2 @@
-# Spring-microservice-edureka
-Spring-microservice-edureka
+# Spring-microservice-eureka
+Spring-microservice-eureka
